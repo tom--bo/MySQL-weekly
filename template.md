@@ -1,5 +1,4 @@
 月曜日に先週一週間のMySQL関連の更新を再確認するのにご活用ください。
-このブログ記事はGitHub上で管理されています[MySQL-weekly](https://github.com/tom--bo/MySQL-weekly)。Issue, pull-request歓迎です。(完全に同期できているわけではありません)
 
 # Release note
 
@@ -42,3 +41,7 @@
 - name
   - [title](url)
     - aa
+
+-----
+
+このブログ記事はGitHub上で管理されています[MySQL-weekly repository](https://github.com/tom--bo/MySQL-weekly)。Issue, pull-request歓迎です。(完全に同期できているわけではありません)
