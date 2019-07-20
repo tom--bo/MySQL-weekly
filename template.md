@@ -9,6 +9,7 @@
 # Bugs
 
 `serverity >= S5(Performance)`でupdatedでdesc sort、結果の今週分を見る
+
 [条件を適用した検索結果](https://bugs.mysql.com/search.php?cmd=display&status=All&severity=-5&os=5&bug_age=0&order_by=mtime&direction=ASC&limit=30&mine=0&reorder_by=mtime)
 
 ## Bug #???
