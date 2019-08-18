@@ -16,15 +16,13 @@
 
 
 - personal
-
   - https://opensourcedba.wordpress.com/
-
   - https://lefred.be/
+  - http://dimitrik.free.fr/blog/index.html
   - http://oysteing.blogspot.com/
   - https://elephantdolphin.blogspot.com/
   - https://mysql.wisborg.dk/
   - http://dasini.net/blog/en/
-
   - http://nippondanji.blogspot.com/
   - http://blog.kimuradb.com/
   - https://yoku0825.blogspot.com/
