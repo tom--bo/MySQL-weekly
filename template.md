@@ -24,6 +24,8 @@
 - MySQL server blog: https://mysqlserverteam.com/
   - Nothing
 
+- MySQL High Availability blog: https://mysqlhighavailability.com/
+  - Nothing
 
 - Percona blog (MySQL): https://www.percona.com/blog/
   - Nothing
