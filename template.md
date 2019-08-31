@@ -17,7 +17,6 @@
 [title](url)
 
 - aa
-- bb
 
 # Organization blogs
 
@@ -28,17 +27,29 @@
   - Nothing
 
 - Percona blog (MySQL): https://www.percona.com/blog/
-  - Nothing
+  - [Using linux-fincore to Check Linux Page Cache Usage](https://www.percona.com/blog/2019/08/29/using-linux-fincore-to-check-linux-page-cache-usage/)
+    - MySQLと直接関係ないがtagもMySQLがついているので紹介
+    - [linux-fincore](https://github.com/yazgoo/linux-ftools) と記事内で書かれているツール(linux-ftools)の紹介
+    - ファイルを指定して、ページキャッシュに乗っているか、どの程度のページを確保しているかを確認することができる
 
 - MySQL道普請: https://gihyo.jp/dev/serial/01/mysql-road-construction-news
-  - Nothing
+  - [第104回　MySQLのROLE［その2］](https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0104)
+    - 第102回の概要・作成方法に続くrole機能の紹介
+    - `mandatory_roles`, `active_all_roles_on_login`について説明
 
 - SmartStyle TECH BLOG (MySQL): https://www.s-style.co.jp/blog/category/tech/mysql/ & https://www.s-style.co.jp/blog/category/tech/percona/
-  - Nothing
-
+  - [MySQL8.0.17 新機能紹介：Redo ログのアーカイブについて](https://www.s-style.co.jp/blog/2019/08/5060/)
+    - redo_logのアーカイビング機能を設定するのに必要なinnodb_redo_log_archive_dirに関する設定方法と注意点が詳しい
+    - この機能の導入経緯、ユースケースについても紹介され、現状のbackupツールのサポート状況についても説明されている
 - Severalnines Database Blog: https://severalnines.com/database-blog
-  - Nothing
-
+  - [Comparing Failover Times for Amazon Aurora, Amazon RDS, and ClusterControl](https://severalnines.com/database-blog/comparing-failover-times-amazon-aurora-amazon-rds-and-clustercontrol)
+    - AWSのAurora, Amazon RDS, severalnines社のツールらしきClusterControlでMultiAZで構成されたMySQL replica-setでFailoverにかかる時間の比較
+    - 結論としては
+      - Aurora: 7sec
+      - ClusterControl: 11sec
+      - RDS: 27sec
+      となっている。
+    - 実際AWSの2サービスでは突然の障害ではなく、GUIからの操作でFailoverを意図して行っているので、もしかしたらなにかFailoverが早くなるような操作が事前に走っていたりしないかな？なんて思ったりした。
 
 - Yakst MySQL-tag: https://yakst.com/ja/tags/mysql
   - Nothing
@@ -50,7 +61,17 @@
 - [title](url)
 - aa
 
-
+- [Join the Code ONE MySQL Track at Oracle Open World in San Francisco](https://lefred.be/content/join-the-code-one-mysql-track-at-oracle-open-world-in-san-francisco/)
+  - OOW中?に開催するMySQL Receptionの案内
+  - これ個人のブログで告知するんだ（個人で開催してるのか？）と思った
+  - OOWのMySQL trackも紹介されている
+    - https://events.rainfocus.com/widget/oracle/oow19/catalogcodeone19?search.codeonetracks=15560568230440116cnc
+- [MySQL Technology Cafe #5 に参加してきた](http://mita2db.blogspot.com/2019/08/mysql-technology-cafe-5.html)
+  - MySQL Technology Cafe #5への振り返り記事
+- [HammerDBをCLIで使うなど（２）：MySQLにTPC-Cを実行してみる](http://atsuizo.hatenadiary.jp/entry/2019/08/27/090000)
+  - HammerDBというDBMSベンチマークソフトでMySQLにベンチマークを実行するまでの設定を解説
+  - そもそもHammerDBについての説明もされているので、まずは[HammerDBをCLIで使うなど（１）：環境構築](http://atsuizo.hatenadiary.jp/entry/2019/08/26/090000)を読んでみると良さそう
+  - この他HammerDBで対応されているDBMSへのベンチマーク方法もこのシリーズで説明されている
 
 
 - personal
