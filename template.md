@@ -62,6 +62,13 @@
   - https://mysql.wisborg.dk/
   - http://dasini.net/blog/en/
   - https://www.fromdual.com/blog/41
+  - http://mablomy.blogspot.com/
+  - https://thesubtlepath.com/blog/
+  - http://mysql-nordic.blogspot.com/
+  - https://www.mortensi.com/
+
+
+  - [jp]
   - http://nippondanji.blogspot.com/
   - http://blog.kimuradb.com/
   - https://yoku0825.blogspot.com/
