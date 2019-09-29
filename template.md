@@ -1,4 +1,8 @@
-月曜日に先週一週間のMySQL関連の更新を再確認するのにご活用ください。
+MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, organizationによるblog, 個人のblogをまとめ紹介しています。  
+更新は月曜 10時(AM)です。先週一週間のMySQL関連の更新を再確認するのにご活用ください。
+
+また、このブログ記事はGitHub上で管理されています[MySQL-weekly repository](https://github.com/tom--bo/MySQL-weekly)。Issue, pull-request歓迎です。(完全に同期できているわけではありません)
+
 
 # Release note
 
@@ -8,9 +12,11 @@
 
 # Bugs
 
-`serverity >= S5(Performance)`でupdatedでdesc sort、結果の今週分を見る
+基本的にMySQL Server5.7以上のbug fixのみまとめます
 
-[条件を適用した検索結果](https://bugs.mysql.com/search.php?cmd=display&status=All&severity=-5&os=5&bug_age=0&order_by=mtime&direction=ASC&limit=30&mine=0&reorder_by=mtime)
+1. `serverity >= S5(Performance)`でupdatedでdesc sort、[結果の今週分](https://bugs.mysql.com/search.php?cmd=display&status=All&severity=-5&os=5&bug_age=0&order_by=mtime&direction=ASC&limit=30&mine=0&reorder_by=mtime)
+1. `Status == Closed`で`ID#`でdesc sort、[結果の今週分](https://bugs.mysql.com/search.php?search_for=&status=Closed&severity=&limit=10&order_by=id&cmd=display&direction=DESC&os=0&phpver=&bug_age=0)を見る
+
 
 ## Bug #???
 
