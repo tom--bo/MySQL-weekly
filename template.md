@@ -68,6 +68,8 @@ MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, orga
   - https://thesubtlepath.com/blog/
   - http://mysql-nordic.blogspot.com/
   - https://www.mortensi.com/
+  - https://jfg-mysql.blogspot.com/
+  - https://federico-razzoli.com/
 
 
   - [jp]
