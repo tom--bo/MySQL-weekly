@@ -42,7 +42,7 @@ MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, orga
 - SmartStyle TECH BLOG (category [MySQL](https://www.s-style.co.jp/blog/category/tech/mysql/) and [Percona](https://www.s-style.co.jp/blog/category/tech/percona/))
   - Nothing
 
-- [Severalnines Database Blog](https://severalnines.com/database-blog)
+- [GREE Engineer's Blog](https://labs.gree.jp/blog/) (MySQL関連)
   - Nothing
 
 - [Yakst MySQL-tag](https://yakst.com/ja/tags/mysql)
