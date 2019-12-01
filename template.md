@@ -49,11 +49,11 @@ MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, orga
   - Nothing
 
 
+
 # Personal blogs
 
 - [title](url)
 - aa
-
 
 - personal
   - https://opensourcedba.wordpress.com/
@@ -78,7 +78,7 @@ MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, orga
   - https://yoku0825.blogspot.com/
   - http://sakaik.hateblo.jp/
   - https://tmtms.hatenablog.com/
-  - http://mita2db.blogspot.com/
+  - https://mita2db.hateblo.jp/
   - https://www.slideshare.net/takanorisejima/
   - http://kenken0807.hatenablog.com/
   - https://ichirin2501.hatenablog.com/
