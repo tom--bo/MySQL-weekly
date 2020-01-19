@@ -84,6 +84,8 @@ MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, orga
   - http://hiroi10.hatenablog.com/
   - https://qiita.com/hmatsu47
   - http://next4us-ti.hatenablog.com/
+  - https://miyakelp.hatenablog.jp/
+  - http://rabbitfoot141.hatenablog.com/
   - https://tombo2.hatenablog.com/
 
 
