@@ -12,7 +12,9 @@
 - https://www.percona.com/blog/2020/01/15/setup-and-deploy-vitess-on-kubernetes-minikube-for-mysql-part-iii-of-iii/
 
 
+# SQLs
 
-
+- https://mysqlserverteam.com/a-must-know-about-not-in-in-sql-more-antijoin-optimization/
+  - antijoinとNULLの結果について
 
 .
