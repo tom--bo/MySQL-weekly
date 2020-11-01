@@ -10,20 +10,6 @@ MySQL Weeklyでは1週間ごとにMySQLのrelease-note, bug, official blog, orga
 
 - Nothing
 
-# Bugs
-
-基本的にMySQL Server, 5.7以上のbug fixのみまとめます
-
-1. `serverity >= S5(Performance)`でupdatedでdesc sort、[結果の今週分](https://bugs.mysql.com/search.php?cmd=display&status=All&severity=-5&os=5&bug_age=0&order_by=mtime&direction=ASC&limit=30&mine=0&reorder_by=mtime)
-1. `Status == Closed`で`ID#`でdesc sort、[結果の今週分](https://bugs.mysql.com/search.php?search_for=&status=Closed&severity=&limit=10&order_by=id&cmd=display&direction=DESC&os=0&phpver=&bug_age=0)を見る
-
-
-## Bug #???
-
-[title](url)
-
-- aa
-- bb
 
 # Organization blogs
 
